@@ -289,7 +289,7 @@ footer span a:hover {
 }
 .card:hover{
     transform: scale(1.01);
-    /* border: orange; */
+    background-color: rgb(199, 199, 199);
 }
 /* responsive media query start */
 
