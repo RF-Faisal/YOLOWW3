@@ -133,7 +133,9 @@ section .title::after {
     font-size: 35px;
     font-weight: 600;
 }
-
+.navbar .logo a:hover{
+    text-decoration: none;
+}
 .navbar .logo a span {
     color: orange;
     transition: all 0.3s ease;
@@ -163,6 +165,7 @@ section .title::after {
 
 .navbar .menu li a:hover {
     color: orange;
+    text-decoration: none;
 }
 
 .navbar.sticky .menu li a:hover {
@@ -627,7 +630,8 @@ footer span a {
 }
 
 footer span a:hover {
-    text-decoration: underline;
+    color: orangered;
+    text-decoration: none;
 }
 
 
