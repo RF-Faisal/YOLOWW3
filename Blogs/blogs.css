@@ -275,24 +275,25 @@ footer span a:hover {
 /* .card-body{
 } */
 .card{
-    margin: 20px 10px;
+    padding-right: 5px;
+    margin: 20px 0;
     box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
 }
 .card-body a{
     color: #39b3ff;
 }
 
-.card img{
-    height: 7cm;
+/* .card img{
+    height: 5cm;
     width: auto;
-}
+} */
 /* .card img:hover{
     transform: scale(1.01);
 } */
-.card:hover{
+/* .card:hover{
     transform: scale(1.01);
     background-color: rgb(199, 199, 199);
-}
+} */
 
 /* responsive media query start */
 
