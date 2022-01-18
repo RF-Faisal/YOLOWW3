@@ -275,9 +275,11 @@ footer span a:hover {
 /* .card-body{
 } */
 .card{
+    color: #aaa;
+    background-color: #111;
     padding-right: 5px;
     margin: 20px 0;
-    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px 7px black;
 }
 .card-body a{
     color: #39b3ff;
